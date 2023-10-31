@@ -1,1 +1,1 @@
-# Image-classification-on-Fashion-MNIST-dataset-using-Neural-Networks
+# Image classification on Fashion MNIST dataset using Neural Networks
