@@ -1,6 +1,6 @@
-# Image classification on Fashion MNIST dataset using Neural Networks
+# Image classification on Fashion MNIST dataset using Neural Networks with PyTorch
 
-Se utilizan redes neuronales Feed Foward para resolver un problema de clasificacion de imágenes sobre el dataset Fashion-MNIST, se logra una accuracy del 90.04%.
-Se realiza como parte del laboratorio de la materia Aprendizaje Automático en Facultad de Ingeniería, UdelaR.
+Se implementan redes neuronales Feed Forward para clasificar imágenes del dataset Fashion-MNIST. Utilizando PyTorch, se logra una precisión del 90.04%.
+Este trabajo fue realizado como parte del laboratorio para la materia "Aprendizaje Automático" en la Facultad de Ingeniería de la Universidad de la República (UdelaR).
 
-Conjunto de entrenamiento: https://github.com/zalandoresearch/fashion-mnist
+Fashion-MNIST: https://github.com/zalandoresearch/fashion-mnist
